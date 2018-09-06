@@ -1,0 +1,8 @@
+Certificate
+condenser
+inverter
+label
+meter
+other
+solararray
+wallequipment
