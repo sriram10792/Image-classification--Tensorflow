@@ -40,6 +40,7 @@ The retraining is done on MobileNET, a small CNN. CNN performs repeated calculat
 Higher the size of the images, better is the learning, more is the efficiency, but the processing time is more too.
 
 IMAGE_SIZE=224
+
 ARCHITECTURE="mobilenet_0.50_${IMAGE_SIZE}"
 
 
