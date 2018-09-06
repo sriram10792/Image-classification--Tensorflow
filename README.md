@@ -81,3 +81,12 @@ The "label_image.py" is written as a function since the objective was to deploy 
 
 The result for this classification is attached.
 
+
+Note:
+The following files alone are enough and can be used independently, deployed. The clone repository and other files are required before training only.
+
+label_image.py
+retrained_graphs.pb
+retrained_labels.txt
+
+
